@@ -30,9 +30,8 @@ El proyecto está contenido en un cuaderno Jupyter (`NBA_.ipynb`), y está divid
 ### 7. **Evaluación del Modelo**
    Se evalúa el rendimiento del modelo final utilizando datos de prueba. Las métricas de evaluación permiten medir qué tan bien el modelo predice el resultado de un partido.
 
+### 8. **Seleccionar los equipos para ver la probabilidad de que uno gane a otro, indicando quien juega en casa y quien fuera (Chung 251)** 
+
 ## Cómo Usar este Proyecto
 
-1. **Requisitos Previos**: Asegúrate de tener instaladas las librerías necesarias. Puedes instalarlas utilizando el siguiente comando:
-
-   ```bash
-   pip install -r requirements.txt# TFM
+1. **Requisitos Previos**: Asegúrate de tener instaladas las librerías necesarias. 
